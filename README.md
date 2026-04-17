@@ -93,7 +93,10 @@ streamlit run app/app.py
 ## 📸 Screenshots
 
 ![Forecast](images/Milk_forecast.png)
-
+![Forecast](images/Bread_forecast.png)
+![Forecast](images/Eggs_forecast.png)
+![Forecast](images/Rice_forecast.png)
+![Forecast](images/sales_forecast.png)
 ---
 
 ## 🔮 Future Improvements
